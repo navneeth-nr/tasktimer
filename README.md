@@ -8,6 +8,6 @@
   When the task is switched, the old task gets completed and the new task starts.
   Managed all interactions and logins using Google Cloud Functions.
   
-  Tech stack used: **Database** - Firestore, **Backend** - Express.js, Node.js, Google Cloud Platform, **Frontend** - React, Vite.js, HTML, CSS
+  Tech stack used: **Database** - Firestore, **Backend** - Express.js, Node.js, Google Cloud Platform, Firebase **Frontend** - React, Vite.js, HTML, CSS
 
 https://firestore-react-3d440.firebaseapp.com/
